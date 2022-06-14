@@ -1,5 +1,5 @@
 {
-  "name": "template-fullstack",
+  "name": "mon projet perso",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "fix": "npm --prefix ./frontend run fix && npm --prefix ./backend run fix"
   },
   "keywords": [],
-  "author": "Wild Code School",
+  "author": "anolibyssdev",
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^7.0.0",
